@@ -1,0 +1,21 @@
+# OS / Editor
+.DS_Store
+*.swp
+*.tmp
+
+# Logs
+*.log
+logs/
+
+# Env / secrets
+.env
+.env.*
+
+# Runtime / temp
+tmp/
+temp/
+
+# Node / Python examples (future-proof)
+node_modules/
+__pycache__/
+
